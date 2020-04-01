@@ -1,0 +1,24 @@
+{
+	"name": "discord-twitch-notifications",
+	"version": "1.0.0",
+	"description": "Simple Discord Bot that notifies your server when a streamer is live",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"Discord",
+		"Twitch",
+		"NodeJS",
+		"JavaScript"
+	],
+	"author": "Alexis#3207",
+	"license": "MIT",
+	"dependencies": {
+		"cron": "^1.8.2",
+		"discord.js": "^12.1.1",
+		"node-fetch": "^2.6.0",
+		"sequelize": "^5.21.5",
+		"sqlite3": "^4.1.1"
+	}
+}
