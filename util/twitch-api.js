@@ -16,7 +16,7 @@ const get = async (url) => {
 	}
 };
 
-//? I could do all of this is the same file but I might use these functions elsewhere in the future -
+//? I could do all of this in the same file but I might use these functions elsewhere in the future -
 
 //? User
 const getUser = async (user) => {
