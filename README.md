@@ -30,3 +30,6 @@ node .
 ## Commands 🗿
 
 - None
+
+
+[![Run on Repl.it](https://repl.it/badge/github/WoruWoru/discord-twitch-notifications)](https://repl.it/github/WoruWoru/discord-twitch-notifications)
